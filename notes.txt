@@ -1,0 +1,2 @@
+ANALISE DE DADOS
+IPYNP = print especial = display = aparece a tabela formatada certinho para projetos de dados
